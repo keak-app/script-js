@@ -60,8 +60,3 @@ Contributions to this project are welcome! To contribute:
 
 6. Collaborate with the community for code review and improvements.
 
-📜 **License**
-
-This code is available under an open-source license (provide license details), so feel free to use it in your projects and adapt it as needed.
-
-Happy coding! :tada:
